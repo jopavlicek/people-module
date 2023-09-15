@@ -6,5 +6,9 @@
     {
         "id": 2,
         "name": "Alice"
+    },
+    {
+        "id": 3,
+        "name": "Malice"
     }
 ]

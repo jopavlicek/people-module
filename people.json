@@ -1,14 +1,17 @@
 [
     {
         "id": 1,
-        "name": "Bob"
+        "name": "Bob",
+        "surname": "Doe"
     },
     {
         "id": 2,
-        "name": "Alice"
+        "name": "Alice",
+        "surname": "Johnson"
     },
     {
         "id": 3,
-        "name": "Malice"
+        "name": "Malice",
+        "surname": "Ligma"
     }
 ]
